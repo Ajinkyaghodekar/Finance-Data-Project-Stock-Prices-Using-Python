@@ -13,8 +13,13 @@
 7. Plotly
 8. Cufflinks
 
+# Installation
+1. pip install pandas-datareader
+2. Import above libraries and do the needful installation of the libraries.
+
 # Dataset
 1. The data is about Bank Stocks and related to the financial crisis to the early 2016. 
+2. Need to install pandas-datareader so it will allows to read the stock information from the dataset file.
 
 # Figure Out
 1. Need to figure out how to get the stock data from Jan 1st 2006 to Jan 1st 2016 for each of this banks.
